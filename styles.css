@@ -1,2 +1,18 @@
-
 /* Your CSS Code here. */
+table {
+        width: 100%;
+        border: 1px solid black;
+      
+      }
+      th, td {
+        border: 1px solid black;
+        text-align: center;
+        padding: 8px;
+      }
+      .nested-table {
+        width: 100%;
+      }
+      a {
+        text-decoration: none;
+        color: blue;
+      }
